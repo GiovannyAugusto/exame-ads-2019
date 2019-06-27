@@ -1,0 +1,23 @@
+. Versionamento de códigos:
+É um software que tem a finalidade de gerenciar diferentes versões no desenvolvimento de um documento qualquer. Esses sistemas são comumente utilizados no desenvolvimento de software para controlar as diferentes versões, histórico e desenvolvimento, dos código-fonte e também da documentação.
+A importância de um versionamento adequado não está apenas em um desenvolvimento mais otimizado e econômico, é também uma garantia de segurança para o software dentro da empresa
+Exemplo:
+Um versionamento bem-feito permite o armazenamento completo e organizado de todas as versões do software. Dessa forma, o setor de TI evita que qualquer dado importante ou pedaço de código seja perdido. Além disso, essa organização será necessária para todos os itens abaixo.
+
+. Revisão de Códigos:
+	Serve para revisar todo o procedimento de um desenvolvimento de algum software, para garantir que não haja nenhum código malicioso que irá prejudicar a empresa no futuro.
+	Exemplo:
+	Um funcionário de uma empresa de software, 
+tem a intenção de programar uma bomba relógio no computador da empresa caso ele seja despedido,
+mas essa empresa tem um supervisor que pede para todos os funcionários revisarem seus códigos,
+o supervisor visualizou um código malicioso e antes que esse funcionário faça o que deseja o supervisor o despede por causa desse código malicioso que foi detectado ao revisar o código.
+
+. Testes automatizados:
+	São programas ou scripts simples que possuem diversas funcionalidades, podendo ser testado e ainda verifica automaticamente os efeitos colaterais obtidos. Para começar, os testes automatizados podem ser realizados com facilidade e rapidamente, podendo inclusive ser repetidos e com pouco esforço. Outra vantagem é analisar de forma confiável a performance do software em diversas ocasiões
+
+. Integração contínua:
+	 É uma prática de desenvolvimento de software que visa tornar a integração de código mais eficiente,
+através de builds e testes automatizados.
+	Como a implementação da integração de sistemas nas empresas, nenhum dado poderá ser manipulado ou alterado,
+garantindo a veracidade e confiabilidade dos resultados. Assim, dispor os dados estruturados aos gestores e líderes,
+para facilitar e apoiar na tomada de decisões, é algo imprescindível.
